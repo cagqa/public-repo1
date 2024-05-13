@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>U.S. Geological Survey</origin>
+<pubdate>2007</pubdate>
+<title>NGDC_CRM - NGDC Coastal Relief Model image of the project area offshore of Grand Strand, South Carolina (GeoTIFF)</title>
+<edition>1.0</edition>
+<geoform>remote-sensing image</geoform>
+<serinfo>
+<sername>Open-File Report</sername>
+<issue>2005-1346</issue>
+</serinfo>
+<pubinfo>
+<pubplace>Woods Hole Science Center, Woods Hole, MA</pubplace>
+<publish>U.S. Geological Survey, Coastal and Marine Geology Program</publish>
+</pubinfo>
+<onlink>http://pubs.usgs.gov/of/2005/1346/arcgis/ngdc/ngdc_crm.zip</onlink>
+<lworkcit>
+<citeinfo>
+<origin>Baldwin, W.E.</origin>
+<origin>Denny, J.F.</origin>
+<origin>Schwab, W.C.</origin>
+<origin>Gayes, P.T.</origin>
+<origin>Morton, R.A.</origin>
+<origin>Driscoll, N.W.</origin>
+<pubdate>2007</pubdate>
+<title>Geologic Framework Studies of South Carolina&apos;s Long Bay from Little River Inlet to Winyah Bay, 1999-2003; geospatial data release</title>
+<serinfo>
+<sername>Open-File Report</sername>
+<issue>2005-1346</issue>
+</serinfo>
+<pubinfo>
+<pubplace>Woods Hole Science Center, Woods Hole, MA</pubplace>
+<publish>U.S. Geological Survey, Coastal and Marine Geology Program</publish>
+</pubinfo>
+<onlink>http://pubs.usgs.gov/of/2005/1346/</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<descript>
+<abstract>In 1999, the USGS, in partnership with the South Carolina Sea Grant Consortium, began a study to investigate processes affecting shoreline change along the northern coast of South Carolina, focusing on the Grand Strand region. Previous work along the U.S. Atlantic coast shows that the structure and composition of older geologic strata located seaward of the coast heavily influences the coastal behavior of areas with limited sediment supply, such as the Grand Strand. By defining this geologic framework and identifying the transport pathways and sinks of sediment, geoscientists are developing conceptual models of the present-day physical processes shaping the South Carolina coast. The primary objectives of this research effort are: 1) to provide a regional synthesis of the shallow geologic framework underlying the coastal upland, shoreface and inner continental shelf, and define its role in coastal evolution and modern beach behavior; 2) to identify and model the physical processes affecting coastal ocean circulation and sediment transport, and to define their role in shaping the modern shoreline; and 3) to identify sediment sources and transport pathways; leading to construction of a regional sediment budget.</abstract>
+<purpose>The GeoTIFF image of the coastal region of Grand Strand, South Carolin was generated from the Coastal Relief Model to provide a basemap of the project area for the Geographic Information System (GIS) database.</purpose>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>2001</caldate>
+</sngdate>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>None planned</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-80.176050</westbc>
+<eastbc>-76.737177</eastbc>
+<northbc>35.290700</northbc>
+<southbc>32.707831</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>General</themekt>
+<themekey>USGS</themekey>
+<themekey>U.S. Geological Survey</themekey>
+<themekey>Coastal Relief Model</themekey>
+<themekey>CRM</themekey>
+<themekey>bathymetry</themekey>
+<themekey>Geographic Information Systems</themekey>
+<themekey>CMGP</themekey>
+<themekey>Coastal and Marine Geology Program</themekey>
+<themekey>GIS</themekey>
+<themekey>Woods Hole Science Center</themekey>
+<themekey>WHSC</themekey>
+<themekey>National Oceanic and Atmospheric Administration</themekey>
+<themekey>NOAA</themekey>
+<themekey>GeoTIFF image</themekey>
+</theme>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>oceans</themekey>
+<themekey>oceans and coastal</themekey>
+<themekey>oceans and estuaries</themekey>
+<themekey>imageryBaseMapsEarthCover</themekey>
+</theme>
+<place>
+<placekt>General</placekt>
+<placekey>South Carolina</placekey>
+<placekey>Grand Strand</placekey>
+<placekey>North Myrtle Beach</placekey>
+<placekey>Myrtle Beach</placekey>
+<placekey>Surfside</placekey>
+<placekey>Garden City</placekey>
+<placekey>Pawleys Island</placekey>
+<placekey>Waites Island</placekey>
+<placekey>Southeast United States</placekey>
+<placekey>United States</placekey>
+<placekey>Atlantic Ocean</placekey>
+</place>
+</keywords>
+<accconst>None</accconst>
+<useconst>Public domain data from the U.S. government is freely redistributable with proper metadata and source attribution. Please recognize the U.S. Geological Survey as the originator of this dataset.</useconst>
+<ptcontac>
+<cntinfo>
+<cntperp>
+<cntper>Jane Denny</cntper>
+<cntorg>U.S. Geological Survey</cntorg>
+</cntperp>
+<cntpos>Geologist</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>384 Woods Hole Rd.</address>
+<city>Woods Hole</city>
+<state>MA</state>
+<postal>02543-1598</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(508) 548-8700 x2311</cntvoice>
+<cntfax>(508) 457-2310</cntfax>
+<cntemail>jdenny@usgs.gov</cntemail>
+</cntinfo>
+</ptcontac>
+<browse>
+<browsen>http://pubs.usgs.gov/of/2005/1346/images/ngdc_crm.jpg</browsen>
+<browsed>JPG image of NGDC coastal relief model</browsed>
+<browset>JPEG</browset>
+</browse>
+<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.780</native>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>There are no attributes associated with a GeoTIFF image.  Pixels (cells) convey only RGB values.</attraccr>
+</attracc>
+<logic>
+Land elevations within the gridded dataset come from the United States Geological Survey/ National Image Mapping Agency (USGS/NIMA) 1:250,000 or 1 degree DEMs of the states. A description of the USGS/NIMA DEMs and how they were derived can be accessed on the World Wide Web at http://edcwww.cr.usgs.gov/glis/hyper/guide/1_dgr_dem. Our focus, however, is on the bathymetric soundings that are used in constructing the offshore regions of the grids.
+
+Soundings for each volume of the Coastal Relief model series are compiled from hydrographic surveys conducted by the National Ocean Service (NOS) and from various academic institutions. The surveys were carried out using a variety of sounding methods including SeaBeam 16-beam, 12-kHz swath mapping system (6000- &gt;3000m operating water depths), General Instruments 17-beam, 36-kHz Hydrochart II swath mapping system (5-150m operating water depths), single-beam echosounder (e.g., 3.5 kHz narrow 2 degree beam), and lead-line sounding method. These latter surveys date as far back as the late 1800&apos;s.
+
+A wide range of navigation methods are also associated with the surveys. Visual navigation is based on three-point sextant fixes, theodolite intersections, and celestial fixes. Electronic navigation involves short to long range positioning systems that run the gamut from Loran-C (0.25 - 5 nm accuracy) to differential GPS (1 m accuracy).
+
+Despite the varying sounding and navigation techniques upon which they are based, all of the NOS soundings used in constructing the Coastal Relief Model meet rigorous standards for accuracy. The same standards are employed by the International Hydrographic Office and have remained relatively consistent since the 1800&apos;s. The vertical accuracy of the soundings is 0.3 m in 0 - 20 m of water, 1.0 m in 20 - 100 m of water, and 1% of the water depth in 100 m of water. The horizontal accuracy of the soundings is within a radius of 1.5 mm of the sounding location at the scale at which the soundings are recorded. NOS surveys are plotted at map scales that range from 1/10,000 for harbors and channels to 1/50,000 for open ocean surveys, with 1/20,000 being the most commonly used scale. The horizontal accuracy of the soundings is generally 30 m, but it can vary from as fine as 15 m in ports and estuaries to as coarse as 75 m in the offshore areas. Differential GPS has improved this level of accuracy considerably for the most recent survey data.
+
+While the NOS soundings collected since 1965 have been recorded digitally, those collected prior to this time were recorded manually and then used to make hand-drawn bathymetric maps. Approximately 1,550 of these hand-drawn bathymetric maps have been digitized and assimilated into the NOS Hydrographic Database and, subsequently, were used in constructing the many volumes of the gridded dataset.
+</logic>
+<complete>NGDC compiled available bathymetry; spurious data were eliminated.</complete>
+<posacc></posacc>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>National Oceanic and Atmospheric Administration (NOAA)</origin>
+<pubdate>2001</pubdate>
+<title>Coastal Relief Model, U.S. Southeast Atlantic, Vol. 2, 2001</title>
+<geoform>raster digital data</geoform>
+<pubinfo>
+<pubplace>Boulder, Colorado</pubplace>
+<publish>National Oceanic and Atmospheric Administration (NOAA), National Geophysical Data Center (NGDC)</publish>
+</pubinfo>
+<onlink>http://www.ngdc.noaa.gov/mgg/coastal/coastal.html</onlink>
+</citeinfo>
+</srccite>
+<typesrc>CD-ROM</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2001</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>publication date</srccurr>
+</srctime>
+<srccitea>NGDC Coastal Relief Model, U.S. Southeast Atlantic, vol.2, 2001</srccitea>
+<srccontr>Vol. 2 was used to create the onshore and offshore image of Grand Strand, South Carolina region for the project area</srccontr>
+</srcinfo>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Raster</direct>
+<rastinfo>
+<rasttype>Pixel</rasttype>
+<rowcount>2974</rowcount>
+<colcount>3312</colcount>
+<vrtcount>1</vrtcount>
+</rastinfo>
+</spdoinfo>
+<spref>
+<horizsys>
+<planar>
+<gridsys>
+<gridsysn>Universal Transverse Mercator</gridsysn>
+<utm>
+<utmzone>17</utmzone>
+<transmer>
+<sfctrmer>0.999600</sfctrmer>
+<longcm>-81.000000</longcm>
+<latprjo>0.000000</latprjo>
+<feast>500000.000000</feast>
+<fnorth>0.000000</fnorth>
+</transmer>
+</utm>
+</gridsys>
+<planci>
+<plance>row and column</plance>
+<coordrep>
+<absres>93.872650</absres>
+<ordres>93.857165</ordres>
+</coordrep>
+<plandu>meters</plandu>
+</planci>
+</planar>
+<geodetic>
+<horizdn>D_WGS_1984</horizdn>
+<ellips>WGS_1984</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257224</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<overview>
+<eaover>The Coastal Relief Model TIFF image of the South Carolina is a color-coded image.</eaover>
+<eadetcit>NGDC</eadetcit>
+</overview>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntperp>
+<cntper>Jane Denny</cntper>
+<cntorg>U.S. Geological Survey</cntorg>
+</cntperp>
+<cntpos>Geologist</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>384 Woods Hole Rd.</address>
+<city>Woods Hole</city>
+<state>MA</state>
+<postal>02543-1543</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(508) 548-8700 x2311</cntvoice>
+<cntfax>(580)457-2310</cntfax>
+<cntemail>jdenny@usgs.gov</cntemail>
+</cntinfo>
+</distrib>
+<resdesc>Downloadable Data</resdesc>
+<distliab>
+Although all data have been used by the USGS, no warranty, expressed or implied, is made by the USGS as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of these data or related materials.
+
+Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>TIFF</formname>
+<formvern>unknown</formvern>
+<formspec>GeoTIFF</formspec>
+<formcont>Image contains the onshore and offshore DEM of the project area off shore of Grand Strand, South Carolina</formcont>
+<filedec>none</filedec>
+<transize>30 MB</transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>http://pubs.usgs.gov/of/2005/1346/arcgis/ngdc/ngdc_crm.zip</networkr>
+</networka>
+</computer>
+<accinstr>Data can be downloaded via the World Wide Web (WWW)</accinstr>
+</onlinopt>
+<offoptn>
+<offmedia>DVD-ROM</offmedia>
+<reccap>
+<recden>4.75</recden>
+<recdenu>Gbytes</recdenu>
+</reccap>
+<recfmt>UDF</recfmt>
+</offoptn>
+</digtopt>
+</digform>
+<fees>none</fees>
+</stdorder>
+<techpreq>This image is available as a GeoTIFF image with an accompanying world file. To utilize this data, the user must have an image viewer, image processing or GIS software package capable of importing a GeoTIFF image.</techpreq>
+</distinfo>
+<metainfo>
+<metd>20070123</metd>
+<metc>
+<cntinfo>
+<cntperp>
+<cntper>Jane Denny</cntper>
+<cntorg>U.S. Geological Survey</cntorg>
+</cntperp>
+<cntpos>Geologist</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>384 Woods Hole Rd.</address>
+<city>Woods Hole</city>
+<state>MA</state>
+<postal>02543-1598</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(508) 548-8700 x2311</cntvoice>
+<cntfax>(508) 457-2310</cntfax>
+<cntemail>jdenny@usgs.gov</cntemail>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+<metac>None</metac>
+<metuc>None</metuc>
+<metextns>
+<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof>ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+</metadata>
