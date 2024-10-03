@@ -1,0 +1,19 @@
+E0000046|A-1|A1|
+E0000050|A.A.M.D.|AAMD|
+E0000081|AIDS related complex|AIDS-related complex|
+E0000154|act|Act|
+E0000155|active vertical corrector|Active Vertical Corrector|
+E0000158|Adams Stokes disease|Adams-Stokes disease|
+E0000163|adriamycin|Adriamycin|
+E0000164|adriamycinol|Adriamycinol|
+E0000181|Ancistrodon|Agkistrodon|
+E0000202|alcian blue|Alcian blue|
+E0000225|Alk. Phos.|Alk. phos.|
+E0000225|alk. phos.|Alk. phos.|
+E0000234|AluI|Alu I|
+E0000237|Alzheimer disease|Alzheimer's disease|
+E0000239|alzheimer-type|Alzheimer-type|
+E0000311|American Nurses' Association|American Nurses Association|
+E0000353|American-type culture collection|American type culture collection|
+E0000360|Anabaena|Anabena|
+E0000379|angora|Angora|STEWP
